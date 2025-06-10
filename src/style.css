@@ -1,5 +1,5 @@
 body{
-    background-color: #f9f7fe;
+    background-image: url(https://images.pexels.com/photos/16737157/pexels-photo-16737157/free-photo-of-damaged-analog-clock.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
     font-family: sans-serif;
 }
 
@@ -16,14 +16,10 @@ h2{
 
 }
 
-select{
-
-}
-
 .container{
     max-width: 600px;
     margin:60px auto;
-    background-color: white;
+    background-color:rgba(226, 222, 222, 0.514);;
     padding: 30px;
     border-radius: 10px;
     box-shadow:0px 7px 29px 0px rgba(100, 100, 111 , 0.2);
@@ -59,6 +55,9 @@ select{
     opacity: 0.7;
 }
 
+a{
+    color: #9670F3;
+}
 select{
     display: block;
     width: 100%;
@@ -69,5 +68,5 @@ select{
 footer{
     text-align: center;
     font-size: 15px;
-    color: rgba(0, 0, 0 , 0.8);
+    color: white;
 }
